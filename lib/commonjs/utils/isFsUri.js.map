@@ -1,0 +1,1 @@
+{"version":3,"names":["isFsUri","value","startsWith"],"sources":["isFsUri.ts"],"sourcesContent":["export function isFsUri(value: string) {\n  return value.startsWith('file:///');\n}\n"],"mappings":";;;;;;AAAO,SAASA,OAAOA,CAACC,KAAa,EAAE;EACrC,OAAOA,KAAK,CAACC,UAAU,CAAC,UAAU,CAAC;AACrC"}

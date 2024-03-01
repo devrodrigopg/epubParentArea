@@ -1,0 +1,1 @@
+{"version":3,"names":["SourceType","exports"],"sources":["source-type.enum.ts"],"sourcesContent":["export enum SourceType {\n  BASE64 = 'base64',\n  EPUB = 'epub',\n  OPF = 'opf',\n  BINARY = 'binary',\n}\n"],"mappings":";;;;;;IAAYA,UAAU,0BAAVA,UAAU;EAAVA,UAAU;EAAVA,UAAU;EAAVA,UAAU;EAAVA,UAAU;EAAA,OAAVA,UAAU;AAAA;AAAAC,OAAA,CAAAD,UAAA,GAAAA,UAAA"}

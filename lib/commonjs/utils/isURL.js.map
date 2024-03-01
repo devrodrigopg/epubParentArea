@@ -1,0 +1,1 @@
+{"version":3,"names":["isURL","value","slice"],"sources":["isURL.ts"],"sourcesContent":["export function isURL(value: string) {\n  return value.slice(0, 4) === 'http';\n}\n"],"mappings":";;;;;;AAAO,SAASA,KAAKA,CAACC,KAAa,EAAE;EACnC,OAAOA,KAAK,CAACC,KAAK,CAAC,CAAC,EAAE,CAAC,CAAC,KAAK,MAAM;AACrC"}

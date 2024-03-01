@@ -1,0 +1,1 @@
+{"version":3,"names":["ReaderProvider","useReader"],"sources":["index.tsx"],"sourcesContent":["export * from './Reader';\nexport * from './types';\nexport { ReaderProvider } from './context';\nexport { useReader } from './hooks/useReader';\n"],"mappings":"AAAA,cAAc,UAAU;AACxB,cAAc,SAAS;AACvB,SAASA,cAAc,QAAQ,WAAW;AAC1C,SAASC,SAAS,QAAQ,mBAAmB"}

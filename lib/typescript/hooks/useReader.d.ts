@@ -1,0 +1,2 @@
+import { ReaderContextProps } from '../context';
+export declare function useReader(): Pick<ReaderContextProps, "key" | "search" | "progress" | "goNext" | "goPrevious" | "goToLocation" | "changeTheme" | "theme" | "totalLocations" | "currentLocation" | "locations" | "isLoading" | "changeFontSize" | "changeFontFamily" | "getLocations" | "getCurrentLocation" | "getMeta" | "addMark" | "removeMark" | "atStart" | "atEnd" | "searchResults">;

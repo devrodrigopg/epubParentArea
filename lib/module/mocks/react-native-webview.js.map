@@ -1,0 +1,1 @@
+{"version":3,"names":["Ersatz"],"sources":["react-native-webview.ts"],"sourcesContent":["// ../../acceptance/ersatz-testing/config/__mocks__/react-native-webview.js\n\nimport Ersatz from '@formidable-webview/ersatz';\n\nexport default Ersatz;\n"],"mappings":"AAAA;;AAEA,OAAOA,MAAM,MAAM,4BAA4B;AAE/C,eAAeA,MAAM"}
